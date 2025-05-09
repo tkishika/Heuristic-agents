@@ -1,4 +1,4 @@
-# 🧠 Agents Duel
+# 🧠 Heuristic Agents
 
 A two-player strategic board game simulation between intelligent agents using **Minimax** and **Alpha-Beta Pruning** algorithms. This project features custom offensive and defensive heuristics, allowing for dynamic decision-making and performance comparison across search strategies.
 
